@@ -1,0 +1,28 @@
+p {
+    color: red;
+}
+div {
+    color: green;
+}
+#header  {
+    color: blue;
+
+}
+#mouse  {
+    background-color: violet;
+}
+.header3  {
+    background-color: yellow;
+}
+.header4 {
+    background-color: indigo;
+}
+.header5  {
+    background-color: violet;
+}.image{
+    height: 100px;
+    width: 100px;
+}
+.text-center  {
+    text-align: right;
+}
